@@ -1,0 +1,21 @@
+# CLion and CMake generated files
+.idea/
+cmake-build-*/
+build/
+out/
+
+# Compiled executables generated in source directories
+/LinkList/LinkList
+/SeqList/seqList
+
+# Compiler artifacts
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# macOS metadata
+.DS_Store
